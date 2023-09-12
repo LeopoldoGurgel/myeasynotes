@@ -1,4 +1,6 @@
 # My Easy Notes  
+
+<img src="./Assets/landing.png" style="max-width: 700px" alt="picture of the lanfing page">
   
   https://myeasynotes-f5c4a6c5cb17.herokuapp.com/notes
 
@@ -13,13 +15,27 @@ This is an app that writes and saves notes to make it easier to handle your ever
 
 
 ## USAGE
-1 - On the main page, click on the Get Started button. You will be redirected to the Note Taker app.
+1 - On the main page, click on the Get Started button. You will be redirected to the Note Taker app.  
+  
 2 - On the right side of the page, you will find the Note Title and the Note Text areas. Click on them to add the title and the text of your note.  
+
+<img src="./Assets/11-express-homework-text-areas.png" style="max-width: 600px" alt="click yhe text area to start writing">   
+    
 3 - When you finish typing your note, you will notice a save button on the upper left corner of your screen. Click on it to save your note.  
-4 - Notice that your note is now displaying on the right side of the page. That's your notes list.   
+  
+  <img src="./Assets/11-express-homework-demo-savebtn.png" style="max-width: 700px" alt="Click the floppy disk to save. Your note. Don't know what a floppy disk is? In first place, I'm offended. Second, Google it.">  
+
+4 - Notice that your note is now displaying on the right side of the page. That's your notes list.  
+
 5 - If you click on any of the notes, it will be displayed larger for you in the right side of the page.  
+
 6 - Clicking on the plus sign on the top left corner of the screen will clear the field allowing you to write a new note.  
+
+<img src="./Assets/11-express-homework-new.png" style="max-width: 700px" alt="Click on the plus sign to enter a new note.">
+
 7 - Click on the delete button when you don't need that note anymore. It will be gone foreveeeeer!  
+
+<img src="./Assets/11-express-homework-delete.png" style="max-width: 700px" alt="Click on the trash bin to delete the note next to it.">
   
 It's easy as that. 
 
